@@ -1,11 +1,11 @@
 # site settings
-title: Wasp
-subtitle: the bug hunter
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Ömer
+subtitle: Akincir
+email: personal.omer.akincir@gmail.com
+description: A passionate Penetration Tester from Turkey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: wasp
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
