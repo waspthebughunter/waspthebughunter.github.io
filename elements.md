@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Özgeçmişim
+description: WHO AM I ?
 image: assets/images/pic01.gif
 nav-menu: true
 ---
@@ -17,7 +18,7 @@ nav-menu: true
 
 <!-- Content -->
 <!-- <h2 id="content">Ömer Akincir</h2> -->
-<p>Merhaba ben Ömer Akincir, bir süredir Sızma Testi Uzmanı olarak Siber Güvenlik sektöründe faliyet göstermekteyim.<br>Geçmişte bir süre yazılımcı olarak tecrübe kazandıktan sonra heyecanın hiç bitmediği bir sektöre geçmiş bulunmaktayım. <br>Bir Sızma Testi Uzmanı olarak Web / Mobil uygulamalarının yanında iç ağ güvenlik testlerini gerçekleştirmekteyim.<br>Tüm bunlara ek olarak boş vakitlerimde yeni yöntem ve projeler üzerine uğraşıp elimden geldiğince öğrenme açlığımı gidermeye çalışırken bir yandan da Siber Güvenlik üzerine makaleler yazmaktayım.</p>
+<p>Merhaba ben Ömer Akincir, bir süredir Sızma Testi Uzmanı olarak Siber Güvenlik sektöründe faliyet göstermekteyim.<br>Geçmişte bir süre yazılımcı olarak tecrübe kazandıktan sonra heyecanın hiç bitmediği bir sektöre geçmiş bulunmaktayım. <br><br>Bir Sızma Testi Uzmanı olarak Web / Mobil uygulamalarının yanında iç ağ güvenlik testlerini gerçekleştirmekteyim.<br><br>Tüm bunlara ek olarak boş vakitlerimde yeni yöntem ve projeler üzerine uğraşıp elimden geldiğince öğrenme açlığımı gidermeye çalışırken bir yandan da Siber Güvenlik üzerine makaleler yazmaktayım.</p>
 
 </div>
 </section>
