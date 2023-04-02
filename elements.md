@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Özgeçmişim
-image: assets/images/pic01.jpg
+image: assets/images/pic01.gif
 nav-menu: true
 ---
 
